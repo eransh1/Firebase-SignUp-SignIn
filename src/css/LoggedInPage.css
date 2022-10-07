@@ -1,0 +1,30 @@
+#logged-in-page{
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    place-content: center;
+    background-color: rgb(37, 35, 35);
+    font-family: "poppins";
+}
+.logged-in-page{
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    place-content: center;
+    display: flex;
+    flex-direction: column;
+    border: 5px solid white;
+    border-radius: 7px;
+}
+.user-name{
+font-size: 4rem;
+color: white;
+margin-bottom: 4rem;
+}
+.logout-btn{
+    width: 60%;
+    color: white;
+    padding: 1rem;
+    font-size: 1.4rem;
+}

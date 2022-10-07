@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-complete-tag",
+        "mgmcdermott.vscode-language-babel",
+        "dzhavat.css-flexbox-cheatsheet",
+        "ohansemmanuel.css-grid-snippets",
+        "zignd.html-css-class-completion",
+        "xabikos.javascriptsnippets",
+        "ecmel.vscode-html-css"
+    ]
+}
